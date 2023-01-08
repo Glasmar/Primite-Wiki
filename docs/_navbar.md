@@ -1,0 +1,4 @@
+- [Home](/) 
+- [Website](https://glasmar.net)  
+- [How To](/howto/index.md)  
+	- [Syntax Example](/howto/example.md)  

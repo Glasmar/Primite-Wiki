@@ -1,0 +1,3 @@
+-  [**Home**](/)  
+-  [**How To**](/howto/index.md)  
+	- [Syntax Example](/howto/example.md)
